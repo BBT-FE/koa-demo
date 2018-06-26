@@ -1,5 +1,5 @@
 # Loterry-node
-A backend for lottery
+A backend for koa-demo
  
  1. 打开mysql,运行sql文件夹下的sql语句
  2. npm install
